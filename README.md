@@ -10,6 +10,8 @@ prepared for machine learning models.
 
 All annotations were manually performed using defined guidelines 
 to ensure consistency and accuracy.
+This project simulates a real-world data annotation workflow 
+used in machine learning data preparation pipelines.
 
 ---
 
@@ -21,8 +23,8 @@ to ensure consistency and accuracy.
 ---
 
 ## Annotation Process
-- Ensured high accuracy and consistency while labeling 
-data based on defined guidelines
+ Ensured high accuracy and consistency while labeling data 
+according to predefined guidelines
 ---
 
 ## Labels
@@ -38,6 +40,8 @@ data based on defined guidelines
 - Verified label consistency across dataset
 - Re-checked ambiguous cases using annotation guidelines
 - Maintained accuracy and consistency in labeling decisions
+- Spot-checked a subset of labeled data to validate 
+annotation accuracy
 
 ---
 ## Tools Used
@@ -61,6 +65,8 @@ data based on defined guidelines
 - Documentation
 - Attention to detail
 - Quality assurance
+- Ability to follow structured annotation protocols and 
+handle edge cases
 
 
 ## Key Learning
