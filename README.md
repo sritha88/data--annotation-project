@@ -21,11 +21,8 @@ to ensure consistency and accuracy.
 ---
 
 ## Annotation Process
-1. Defined annotation rules using annotation_guidelines.md
-2. Manually labeled reviews based on guidelines
-3. Ensured consistency across labels
-4. Documented edge cases and ambiguous examples
-
+- Ensured high accuracy and consistency while labeling 
+data based on defined guidelines
 ---
 
 ## Labels
@@ -38,14 +35,16 @@ to ensure consistency and accuracy.
 ## Quality Checks
 - Checked for missing labels
 - Reviewed duplicate entries
-- Verified label consistency
-- Re-checked ambiguous cases
+- Verified label consistency across dataset
+- Re-checked ambiguous cases using annotation guidelines
+- Maintained accuracy and consistency in labeling decisions
 
 ---
 ## Tools Used
 - Python
 - CSV
 - GitHub
+- Documentation practices for annotation workflows
 
 ---
 ## Files
